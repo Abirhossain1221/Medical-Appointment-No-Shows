@@ -1,6 +1,7 @@
 # Medical Appointment No Shows data analysis and visualization.
 End-to-end data analytics project using PostgreSQL and Power BI
-<img width="1672" height="941" alt="walmart" src="https://github.com/user-attachments/assets/a4b5c7f4-1cfc-4f03-8e26-1942fa900df5" />
+<img width="300" height="120" alt="medical_noshow_banner_modern" src="https://github.com/user-attachments/assets/a40dc780-0b33-4d35-8c46-145c4a4c6905" />
+
 
 
 Dataset  used :
