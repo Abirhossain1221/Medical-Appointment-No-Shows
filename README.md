@@ -32,3 +32,9 @@ v_appointment_risk
 Risk tiers
 High-risk patient identification
 
+# PowerBI dashboard 
+
+<img width="710" height="400" alt="Screenshot 2026-08-26 050440" src="https://github.com/user-attachments/assets/120cedc3-5639-4a0d-bf6b-0448f1fa0e28" />
+
+
+
