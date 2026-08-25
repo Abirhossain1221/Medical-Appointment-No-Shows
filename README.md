@@ -1,6 +1,7 @@
 # Medical Appointment No Shows data analysis and visualization.
 End-to-end data analytics project using PostgreSQL and Power BI
-<img width="1249" height="618" alt="medical_noshow_readme_banner" src="https://github.com/user-attachments/assets/22f4c44c-4dc5-41cd-8341-2bdfdafec417" />
+<img width="1672" height="941" alt="walmart" src="https://github.com/user-attachments/assets/a4b5c7f4-1cfc-4f03-8e26-1942fa900df5" />
+
 
 Dataset  used :
 For this EDA project I used 'Medical Appointment No Shows' from kaggle 
