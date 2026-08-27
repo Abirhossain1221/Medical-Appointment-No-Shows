@@ -34,9 +34,11 @@ Built an interactive Power BI dashboard
 
 ## 📁 Project Structure
 
+```text
 Medical-Appointment-No-Shows/
 │
 ├── data/
+│
 ├── sql/
 │   ├── data_cleaning.sql
 │   ├── eda.sql
@@ -46,7 +48,7 @@ Medical-Appointment-No-Shows/
 │   └── medical_appointment_dashboard.pbix
 │
 └── README.md
-
+```
 
 ## PowerBI dashboard 
 
