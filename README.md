@@ -37,15 +37,14 @@ Built an interactive Power BI dashboard
 ```text
 Medical-Appointment-No-Shows/
 │
-├── data/
+├── data/csv
 │
 ├── sql/
-│   ├── data_cleaning.sql
-│   ├── eda.sql
-│   └── analysis.sql
+│   ├── Healthcare_analysis.sql
+│   └── v_appointmernt_risk.sql
 │
 ├── powerbi/
-│   └── medical_appointment_dashboard.pbix
+│   └── Hospital appointment no-show dashboard.pbix
 │
 └── README.md
 ```
