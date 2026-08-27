@@ -33,7 +33,6 @@ Calculated No-Show Rate
 Identified high-risk patient/appointment segments
 Built an interactive Power BI dashboard
 ---
----
 📁 Project Structure
 Medical-Appointment-No-Shows/
 │
@@ -54,13 +53,13 @@ Medical-Appointment-No-Shows/
 <img width="710" height="400" alt="Screenshot 2026-08-26 050440" src="https://github.com/user-attachments/assets/120cedc3-5639-4a0d-bf6b-0448f1fa0e28" />
 
 <img width="958" height="532" alt="Screenshot 2026-08-27 162756" src="https://github.com/user-attachments/assets/91a86db7-ce52-4490-a5b8-5132784a3e32" />
----
-🎯 Objective
 
+
+🎯 Objective
 To transform raw healthcare appointment data into actionable insights that can help identify patterns behind missed appointments and support better appointment management.
 
-📌 Skills Demonstrated
 
+📌 Skills Demonstrated
 SQL • PostgreSQL • Data Cleaning • EDA • Data Analysis • Power BI • DAX • Data Visualization
----
+
 
