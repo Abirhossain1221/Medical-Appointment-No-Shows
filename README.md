@@ -3,17 +3,15 @@ An end-to-end data analytics project analyzing medical appointment attendance an
 
 <img width="1600" height="640" alt="medical_noshow_banner_modern" src="https://github.com/user-attachments/assets/dab1a04c-7e67-4015-9e00-9d2f2428479c" />
 
----
 # 🛠️ Tools & Technologies
 PostgreSQL — Data cleaning, EDA & SQL analysis
 Power BI — Data visualization & dashboard
 SQL — Data transformation and analysis
----
+
 Dataset  used :
 For this EDA project we used 'Medical Appointment No Shows' from kaggle 
 https://www.kaggle.com/datasets/joniarroba/noshowappointments/data
 
----
 📊 Project Overview
 
 The project analyzes factors associated with patients missing scheduled medical appointments, including:
@@ -24,16 +22,18 @@ No-show patterns
 Neighborhood-level trends
 Patient appointment history
 High-risk appointment segments
----
-🔍 Key Analysis
+
+#🔍 Key Analysis
 Data cleaning and validation in PostgreSQL
 Exploratory Data Analysis using SQL
 Created analytical views for Power BI
 Calculated No-Show Rate
 Identified high-risk patient/appointment segments
 Built an interactive Power BI dashboard
----
-📁 Project Structure
+
+
+##📁 Project Structure
+
 Medical-Appointment-No-Shows/
 │
 ├── data/
@@ -46,7 +46,7 @@ Medical-Appointment-No-Shows/
 │   └── medical_appointment_dashboard.pbix
 │
 └── README.md
----
+
 
 # PowerBI dashboard 
 
@@ -55,11 +55,11 @@ Medical-Appointment-No-Shows/
 <img width="958" height="532" alt="Screenshot 2026-08-27 162756" src="https://github.com/user-attachments/assets/91a86db7-ce52-4490-a5b8-5132784a3e32" />
 
 
-🎯 Objective
+##🎯 Objective
 To transform raw healthcare appointment data into actionable insights that can help identify patterns behind missed appointments and support better appointment management.
 
 
-📌 Skills Demonstrated
+##📌 Skills Demonstrated
 SQL • PostgreSQL • Data Cleaning • EDA • Data Analysis • Power BI • DAX • Data Visualization
 
 
